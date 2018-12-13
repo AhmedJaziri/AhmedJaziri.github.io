@@ -1,0 +1,48 @@
+---
+---
+
+<script>
+<head>
+
+
+<head>
+</script>
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+
+<img src="images/jazz.jpg" style="float: right; width:15%; border:1px solid; margin-right: 20px" align="left">
+
+
+  
+# {.tabset .tabset-fade .tabset-pills}
+
+## About me
+
+
+I'm Jaziri Ahmed, a statistical and data analyst engineer. I  study at the [*Ecole Supérieure de la Statistique et de l'Analyse de l'Information*](http://www.essai.rnu.tn/accueil.htm)  several mathematical and data science courses: econometrics , time series , probability , data mining, financial engineering and Computing tools for Statistics such as `R`, `Python` and `SAS` . 
+
+I’m especially interested in Machine Learning, Quantitative Analysis and Financial Markets.   For my work, I use every day `R`. I will be sharing, in this website, some `R` and `Python` codes where I show how you can use these softwares to solve Machine Learning, Quantitative Analysis and trading problems. Your feedback, comments and questions are very welcome. 
+
+You will also find here  my CV and some projects in `R` , `Python` and `SAS` . 
+
+ 
+
+So feel free to [contact me](mailto:ahmedjazz09@gmail.com) 
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+

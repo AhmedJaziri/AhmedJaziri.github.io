@@ -1,0 +1,79 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+<p align="center">
+*Curriculum Vitae*
+</p>
+
+
+<p align="center">
+<font size="+2">**Statistics and data analyst engineer**</font>
+</p>
+----
+
+<p align="justify">
+**Status:** Student at the <a href='http://www.essai.rnu.tn/accueil.htm'> Higher School of Statistics and Information Analysis</a>
+
+**Skills:** <a href='https://www.r-project.org'> </a> `R` , `Python`,`SAS`, Data Analysis, Quantitative Analysis, Machine Learning, financial markets
+</p>
+
+----
+
+<p align="justify">
+**Summary** A self-driven and highly motivated individual with experience in the finance industry. Special eye for quantitative analysis and gifted with immaculate problem-solving skills and analytical thinking power..
+</p>
+
+----
+
+## Education
+
+
+<p align="justify">
+
+**Since September 2015, Student, Statistical and data analysis.**
+
+* Location:  <a href='http://www.essai.rnu.tn/accueil.htm'>Higher School of Statistics and Information Analysis</a>.
+
+* Qualification: Engineer Degree in Statistics and Information Analysis
+
+* Specialty : Actuarial science
+
+
+**2014-2016, Student, Pre-engineering class. **
+
+* Location: <a href='hhttp://http://www.ipein.rnu.tn/Fr/accueil_46_3.htm'>
+Preparatory Institute for Engineering Studies of Nabeul, Tunisia</a>.
+
+* Specialty : Mathematics, Physics and Engineering Science.
+
+
+
+</p>
+
+
+## Internships
+
+<p align="justify">
+
+* Internship at the *Banque d'Habitat*. My missions were : Check Discount, Updating savings accounts, Withdrawal and payment of money
+
+* Internship at the *INS*. My missions were : My mission were : construction of dataset and a predictif model by using different methode of Machine Learmimg . 
+</p>
+
+## Contact 
+
+>  *email:*  <ahmedjazz09@gmail.com> \
+

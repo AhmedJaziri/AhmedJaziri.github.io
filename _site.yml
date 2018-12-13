@@ -1,0 +1,41 @@
+name: Jaziri Ahmed
+output_dir: '.'
+navbar:
+  title: Jaziri Ahmed
+  type: inverse
+  left:
+  - text: Home
+    icon: fa-home
+    href: index.html
+  - text: Projects
+    menu: 
+      - text: Shinyapps and Construction of predictif model
+        href: https://l.facebook.com/l.php?u=https%3A%2F%2Fahmedhamrouni.shinyapps.io%2Feconometrie%2F%3Ffbclid%3DIwAR0sP4WTLIu2Rnnu2X2KnB58r77aaFog5XsL-OZHkdfg_sVhw02lbhzckLs&h=AT36fXyuLq3qRkpza3izl33Y-mT5mHzSdqxmU2hOwC7fv7rt4-5ZlDSuoWaX1sc3rAF8gy7qhjqYdbuYKqbKipHHFuQaFkQjYSy_IiWdnVsNOCEel4l-BwOZoeAo5kjg-jWG
+      - text: Tabaco Consommation Survey
+        href: Enquete_sur_la_consommation_du_tabac_Pre(1).pdf
+      - text: Kernel
+        href: https://www.kaggle.com/kerneler/starter-valuation-du-nombre-de-70980d03-3/notebook
+#      - text: End of year project
+#        href: https://github.com/hassanhajji/Projet-recherche-operationelle/blob/master/Rapport%20PFA.pdf
+        
+  - text: My CV
+    href: cvR.html
+  - text: Data
+    menu:
+      - text: Number of pharmecies Data 
+        href: https://www.kaggle.com/jaziri/valuation-du-nombre-de-pharmacie-en-tunisie
+  right:
+  - icon: fa-envelope fa-lg
+    href: contact.html
+  - icon: fa-linkedin fa-lg
+    href: https://www.linkedin.com/in/ahmed-jaziri-62a292175/
+  - icon: fa-facebook fa-lg
+    href: https://www.facebook.com/ahmed.jaziri.5099
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+    css: styles.css
+    lib_dir: site_libs
+    self_contained: no
+
